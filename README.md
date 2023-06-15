@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aminestesnaei
 - 👀 I’m interested in back-end and web service 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🔭 I’m currently open for work
+- 🌱 I’m currently learning Python, CEH
 - 📫 How to reach me 
 -                   - INSTAGRAM : @Aminestesnaei
 -                   -Telegram : @amiiin
